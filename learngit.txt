@@ -1,0 +1,6 @@
+git 只能用来编辑文本文件
+git init 初始化一个文件夹
+git add 向repository添加文件
+git commit -m "..." 添加本次提交的说明
+可以一次提交多个add，最后添加commit
+
