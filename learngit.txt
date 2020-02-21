@@ -3,4 +3,7 @@ git init 初始化一个文件夹
 git add 向repository添加文件
 git commit -m "..." 添加本次提交的说明
 可以一次提交多个add，最后添加commit
+git status用来显示当前的状态
+有那些文件没有被add
+有那些已经add但没有commit
 
