@@ -6,4 +6,8 @@ git commit -m "..." 添加本次提交的说明
 git status用来显示当前的状态
 有那些文件没有被add
 有那些已经add但没有commit
+每次文件被修改都应该add，然后commit
 
+如果被修改后没有add，也没有commit
+git diff 可以显示此次修改的内容，如果已经add
+即使没有commit，也不会显示新老版本的差异
